@@ -1,0 +1,12 @@
+{
+  "name": "material-diversidad",
+  "version": "1.0.0",
+  "description": "Página de apoyo sobre diversidad sexual",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
